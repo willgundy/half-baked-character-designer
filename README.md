@@ -1,5 +1,5 @@
 # Dropdown Character Maker
-
+  
 ## Learning Objectives
 
 - Use a for/of loop to run a function against every item in an array (i.e., console.log , alert ).
